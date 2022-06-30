@@ -1,0 +1,9 @@
+{
+    "resources":{
+        "centro_1":{
+            "microscopio":{
+                "nombre": "A"
+            }
+        }
+    }
+}
